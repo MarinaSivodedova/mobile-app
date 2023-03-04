@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kursach</string>
+    <string name="logo">Crypto|Technologies</string>
+    <string name="hint_user_field">Какую криптовалюту ищем?</string>
+    <string name="main_button_text">Найти</string>
+    <string name="no_user_input">Введите название криптовалюты</string>
+</resources>
